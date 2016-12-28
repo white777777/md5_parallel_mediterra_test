@@ -1,0 +1,4 @@
+[Project]
+Name=MD5Parallel
+Manager=KDevCMakeManager
+VersionControl=kdevgit
