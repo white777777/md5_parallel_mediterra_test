@@ -1,3 +1,7 @@
+#ifndef BIGINT_H
+#define BIGINT_H
+
+#include <stdlib.h>
 #include <vector>
 
 class BigInt
@@ -40,3 +44,4 @@ public:
   TBase base;
   std::vector<TBase> data;
 };
+#endif

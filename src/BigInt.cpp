@@ -1,6 +1,5 @@
 #include "BigInt.h"
-
-
+#include <stdexcept>
 
 BigInt::BigInt(TBase base, size_t len) : base(base)
 {
